@@ -1,11 +1,13 @@
 # weather-app-nodejs
 
-1.To know the version of npm -> npm -v
+Open new ternimal in my case I have used VSCode.
 
-2.install node-module files -> npm install
+1.To know the version of npm -> npm -v.
 
-3.npm start -> to run the application
+2.install node-module files -> npm install.
 
-4.Open any browser
+3.npm start -> to run the application.
 
-5.follow link -> http://localhost:3000/
+4.Open any browser.
+
+5.follow link -> http://localhost:3000/.
